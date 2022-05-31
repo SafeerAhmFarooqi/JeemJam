@@ -21,7 +21,7 @@ return [
     'facebook' => [
         'client_id' => '952173898793678',
         'client_secret' => 'd8938b459e08430a6f714c14c176ecb3',
-        'redirect' => 'https://jeemjam.com/public/auth/facebook/callback',
+        'redirect' => 'https://jeemjam.com/auth/facebook/callback',
     ],
     'mailgun' => [
         'domain' => env('MAILGUN_DOMAIN'),

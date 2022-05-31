@@ -66,6 +66,11 @@ Route::get('/privacy', function ()
   return redirect('/privacy-policy');
 });
 
+Route::post('/privacy', function ()
+{
+  return "safeer";
+});
+
 Route::get('/logmob', function ()
 {
      session(['mob'=>'yes']);
