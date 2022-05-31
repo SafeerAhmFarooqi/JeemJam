@@ -50,31 +50,31 @@ class PostAdd extends Component
         $mainImage5='';
         if($this->mainImage)
         {
-            $this->mainImage->store('img','asset');
+            $this->mainImage->store('img','public');
             $mainImage=$this->mainImage->hashName();
         }
 
         if($this->mainImage2)
         {
-            $this->mainImage2->store('img','asset');
+            $this->mainImage2->store('img','public');
             $mainImage2=$this->mainImage2->hashName();
         }
 
         if($this->mainImage3)
         {
-            $this->mainImage3->store('img','asset');
+            $this->mainImage3->store('img','public');
             $mainImage3=$this->mainImage3->hashName();
         }
 
         if($this->mainImage4)
         {
-            $this->mainImage4->store('img','asset');
+            $this->mainImage4->store('img','public');
             $mainImage4=$this->mainImage4->hashName();
         }
 
         if($this->mainImage5)
         {
-            $this->mainImage5->store('img','asset');
+            $this->mainImage5->store('img','public');
             $mainImage5=$this->mainImage5->hashName();
         }
 

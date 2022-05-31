@@ -153,7 +153,7 @@
     @foreach($postData as $data)
         <div style="float:left;background-color:#eded8a;;width:100%;margin-top:5px;">
             
-        <img style="float:left;width:150px;height:150px;margin-left:5px;" src="{{asset('img/'.$data->img)}}" alt="logo">
+        <img style="float:left;width:150px;height:150px;margin-left:5px;" src="{{asset('storage/img/'.$data->img)}}" alt="logo">
         <div style="margin-left: 170px;">
             <h5 style="margin-top:35px;">{{$data->title}}</h5>
             <h6 class="des">{{substr($data->content,0,150)}} </h6>  
