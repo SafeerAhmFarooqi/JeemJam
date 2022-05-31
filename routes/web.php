@@ -21,7 +21,7 @@ use App\Models\category;
 | contains the "web" middleware group. Now create something great!
 |
 */
-  
+//safeer ahmed farooqi  
 Route::get('auth/google', [GoogleController::class, 'redirectToGoogle']);
 Route::get('auth/google/callback', [GoogleController::class, 'handleGoogleCallback']);
 Route::get('auth/facebook', [FacebookController::class, 'redirectToFacebook']);
