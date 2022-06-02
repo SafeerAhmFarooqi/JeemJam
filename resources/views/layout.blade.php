@@ -10,17 +10,17 @@
 
   gtag('config', 'G-FLWP79YNB9');
 </script>
-        <meta name="google-site-verification" content="5MIoiDQHyvWKHSQWjj7m1XLtmG0cWiz6JeBhgWkLn5s" />
+<meta name="google-site-verification" content="Er8miUFiaQu3yVdxqHTg4blTRaA2CasRg0QJVSa-WYo" />
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="keywords" content="jeemjam, post free classified ads in dubai, dubai classifieds sites, best classified sites in dubai">
     <meta name="description" content="JeemJam is the best classified sites in dubai. You can easily post free ads in dubai. As Jeejam is on the top of dubai classified sites lists. Sign up now and post your ad for free.">
-    <link rel="canonical" href="https://jeemjam.com/public/"/>
+    <link rel="canonical" href="https://jeemjam.com/"/>
     
     <!--FacebookOpenGraph-->
      
-    <meta property="og:url" content="https://jeemjam.com/public/" />
+    <meta property="og:url" content="https://jeemjam.com/" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="JeemJam - The World's Best Classified" />
         <meta property="og:description" content="JeemJam. The World best classifieds. Do you want to sell you car, mobile phones, houses, pets, clothes, equipments, accessories, etc. Sign up now and sell anything you want." />
@@ -31,7 +31,7 @@
         <meta name="twitter:card" content="Summary" />
         <meta name="twitter:site" content="@" />
         <meta name="twitter:creator" content="@" />
-        <meta property="og:url" content="https://jeemjam.com/public/" />
+        <meta property="og:url" content="https://jeemjam.com/" />
         <meta property="og:title" content="JeemJam. The World best classifieds"/>
         <meta property="og:description" content="JeemJam. The World best classifieds. Do you want to sell you car, mobile phones, houses, pets, clothes, equipments, accessories, etc. Sign up now and sell anything you want." />
         <meta property="og:image" content="jeemjam" />
