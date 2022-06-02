@@ -14,8 +14,8 @@ return [
     |
     */
     'google' => [
-        'client_id' => '816448550885-p5v9dqjmi1tla4278aa13bprcp65b2co.apps.googleusercontent.com',
-        'client_secret' => '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',
+        'client_id' => '52474121316-mrqhb2r8n8belrnps01fci84lgr4kngk.apps.googleusercontent.com',
+        'client_secret' => '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',
         'redirect' => 'https://jeemjam.com/auth/google/callback',
     ],
     'facebook' => [
