@@ -8,7 +8,7 @@
         <meta name="keywords" content="jeemjam">
     <meta name="description" content="jeemjam">
     <link rel="canonical" href="http://jeemjam.com/"/>
-    <meta property="og:url" content="https://jeemjam.com/public/" />
+    <meta property="og:url" content="https://jeemjam.com/" />
         <meta property="og:type"  content="article" />
         <meta property="og:title"  content="JeemJam" />
         <meta property="og:description"   content="jeemjam" />
@@ -18,10 +18,11 @@
         <meta name="twitter:card" content="Summary" />
         <meta name="twitter:site" content="@" />
         <meta name="twitter:creator" content="@" />
-        <meta property="og:url" content="https://jeemjam.com/public/" />
+        <meta property="og:url" content="https://jeemjam.com/" />
         <meta property="og:title" content="" />
         <meta property="og:description" content="jeemjam" />
         <meta property="og:image" content="jeemjam" />
+        <meta name="google-site-verification" content="Er8miUFiaQu3yVdxqHTg4blTRaA2CasRg0QJVSa-WYo" />
         <title>Jeejam</title>
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <link href="{{asset('css/styles.css')}}" rel="stylesheet" />
