@@ -151,20 +151,20 @@
     <center><h2>No Post found : {{$postData->count()}}</h2></center>
     @endif
     @foreach($postData as $data)
-        <div style="float:left;background-color:#eded8a;;width:100%;margin-top:5px;">
+        <div class="container-sm" style="float:left;background-color:#eded8a;margin-top:5px;">
             
         <img style="float:left;width:150px;height:150px;margin-left:5px;" src="{{asset('storage/img/'.$data->img)}}" alt="logo">
         <div style="margin-left: 170px;">
             <h5 style="margin-top:35px;">{{$data->title}}</h5>
-            <div style="word-break:break-all;display:flex;flex-direction:row;width:18rem;padding:0px;overflow:hidden;">
-                <div style=" width:18em;padding:0px;flex:1 1 50%;">
-                    <h6 class="des">{{substr($data->content,0,150)}} </h6>
+            <div style="word-break:break-all;display:flex;flex-direction:row;padding:0px;overflow:hidden;">
+                <div style="padding:0px;flex:1 1 50%;">
+                    <h6 class="des">{{substr($data->content,0,150)}}</h6>
                 </div>
             </div>
               
-            <div style="word-break:break-all;display:flex;flex-direction:row;width:18rem;padding:0px;overflow:hidden;">
-                <div style=" width:18em;padding:0px;flex:1 1 50%;">
-                    <h6 class="mob" >{{substr($data->content,0,130)}} </h6>
+            <div style="word-break:break-all;display:flex;flex-direction:row;padding:0px;overflow:hidden;">
+                <div style="padding:0px;flex:1 1 50%;">
+                    <h6 class="mob" >{{substr($data->content,0,130)}}</h6>
                 </div>
             </div>
         </div>
