@@ -158,13 +158,13 @@
             <h5 style="margin-top:35px;">{{$data->title}}</h5>
             <div style="word-break:break-all;display:flex;flex-direction:row;width:18rem;padding:0px;overflow:hidden;">
                 <div style=" width:18em;padding:0px;flex:1 1 50%;">
-                    <h6 class="des">{{substr($data->content,0,150)}} asdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdads</h6>
+                    <h6 class="des">{{substr($data->content,0,150)}} </h6>
                 </div>
             </div>
               
             <div style="word-break:break-all;display:flex;flex-direction:row;width:18rem;padding:0px;overflow:hidden;">
                 <div style=" width:18em;padding:0px;flex:1 1 50%;">
-                    <h6 class="mob" >{{substr($data->content,0,130)}} asdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsasdasdasdasdasdasdasdasdasdasdasdasdasdasdads</h6>
+                    <h6 class="mob" >{{substr($data->content,0,130)}} </h6>
                 </div>
             </div>
         </div>
