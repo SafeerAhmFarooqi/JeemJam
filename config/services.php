@@ -16,7 +16,7 @@ return [
     'google' => [
         'client_id' => '816448550885-p5v9dqjmi1tla4278aa13bprcp65b2co.apps.googleusercontent.com',
         'client_secret' => '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',
-        'redirect' => 'https://jeemjam.com/public/auth/google/callback',
+        'redirect' => 'https://jeemjam.com/auth/google/callback',
     ],
     'facebook' => [
         'client_id' => '952173898793678',
